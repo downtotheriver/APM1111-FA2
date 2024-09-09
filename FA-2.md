@@ -3,7 +3,8 @@ APM1111 - Formative Assessment 2
 Dacanay, Jordan
 2024-09-10
 
-**3.49** Prove that $$
+**3.49** Prove that
+$$
 \sum_{j=1}^{N}(X_{j}-1)^{2}=\sum_{j=1}^{N}X_{j}^{2}-2\sum_{j=1}^{N}X_{j}+N
 $$ **Proof**:
 
